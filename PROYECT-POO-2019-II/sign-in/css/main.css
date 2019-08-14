@@ -1,0 +1,30 @@
+#mover-img{
+    margin-bottom: -20px !important;
+    height: 176px;
+    width: 287px;
+}
+
+#mover-le{
+    text-align: center;
+}
+
+
+#inputEmail{
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+#inputPassword{
+    border-radius: 20px; 
+}
+
+#submit-1{
+    background-color: #40CE97;
+    border-color: #40CE97 ;
+    box-shadow: 1px 0px 20px 2px grey;
+}
+
+.form-control:focus{
+    background-color: rgba(109, 109, 109, 0.34) !important;
+    border-color: #40cd97;
+}
